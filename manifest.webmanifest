@@ -1,7 +1,7 @@
 {
-  "name": "TT-02 Android Garage",
-  "short_name": "TT-02 Garage",
-  "description": "Tamiya TT-02 parts inventory and shopping price checks",
+  "name": "Bare Ends RC Garage",
+  "short_name": "RC Garage",
+  "description": "Inventory all RC cars with photos and build sheets",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
